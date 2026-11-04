@@ -1,4 +1,4 @@
-# Shopee-dataset-samples
+# Shopee 数据集样本
 
 <h2>包含 1001 件 Shopee 商品的示例数据集</h2>
 
